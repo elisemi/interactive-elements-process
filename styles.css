@@ -1,5 +1,6 @@
 body {
     display: flex;
+    overflow: hidden;
     align-content: center;
     justify-content: center;
     background: #fdfcf4f1;
