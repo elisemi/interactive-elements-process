@@ -2,7 +2,6 @@ body {
     height: 100%;
     width: 100%;
     display: flex;
-    overflow: hidden;
     align-content: center;
     justify-content: center;
     background: #fdfcf4f1;
